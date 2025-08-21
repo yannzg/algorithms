@@ -1,1 +1,3 @@
-Implementing algorithms in Python along the way.
+# Algorithms
+
+Implementation of various algorithms in Python and C.
