@@ -1,5 +1,6 @@
-#include <stdio.h>
+// Implementation of Bubble Sort
 
+#include <stdio.h>
 
 void bubble_sort(int arr[], int n)
 {
